@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "myDaatrWzos8889PDQ1T2s0F2eq6VjHhFVKrjRvGfb0=",
+  "Source": "azureapisample",
+  "BasePath": "_content/azureapisample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
